@@ -20,7 +20,7 @@ Inspired by Tim Broder's [Automate Adding to Trello on iOS with Launch Center Pr
 
 ## Installation
 1. Get Trello API Key: [https://trello.com/1/appKey/generate][2]
-2. Get Trello API Token:  https://trello.com/1/connect?key=YOUR-KEY&name=drafts2trello&response\_type=token&scope=read,write 
+2. Get Trello API Token:  `https://trello.com/1/connect?key=YOUR-KEY&name=drafts2trello&response\_type=token&scope=read,write` 
 	* NB: Replace 'YOUR-KEY' with the key returned in step 1.
 3. Retrieve List IDs: [See Tim Broders script][3].
 4. Add the key and the token where specified below. (Lines 19 and 21.)
