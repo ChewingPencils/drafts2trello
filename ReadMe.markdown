@@ -3,7 +3,7 @@
 Inspired by Tim Broder's [Automate Adding to Trello on iOS with Launch Center Pro and Pythonista][1].
 
 ## Differences:
- * This script adds support for adding text to the card's desription. (You can send Markdown formatted text.)
+ * This script supports adding text to the card's description. (You can send Markdown formatted text.)
  * This script uses argparse.
  * This script uses Requests for the API calls.
 
