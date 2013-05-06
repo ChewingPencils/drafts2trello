@@ -29,7 +29,7 @@ Inspired by Tim Broder's [Automate Adding to Trello on iOS with Launch Center Pr
 	* NB: Replace 'YOUR-KEY' with the key returned in step 1.
 3. Retrieve List IDs: [See Tim Broders script][5].
 4. Add the key and the token where specified below. (Lines 19 and 21.)
-5. Set value for the position you want your created cards to be placed.
+5. Set the the position for the new card.
 	* Line 23: args\['pos'] = (top, bottom, or numerical value)
 6. Set whether you want the script to output the arguments passed to the script,
 the arguments collected for the API call, and the API response.
