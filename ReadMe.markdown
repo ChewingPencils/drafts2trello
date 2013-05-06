@@ -17,10 +17,10 @@ Inspired by Tim Broder's [Automate Adding to Trello on iOS with Launch Center Pr
 
 ### Options:
 
--n, --note :    Card Description (Optional)    
--t, --tag  :    Card text (Required)  
--v, --version : Script version  
--h, --help :    script help  
+	-n, --note :    Card Description (Optional)    
+	-t, --tag  :    Card text (Required)  
+	-v, --version : Script version  
+	-h, --help :    script help  
 
 ## Installation
 1. Get Trello API Key: [https://trello.com/1/appKey/generate][4]
